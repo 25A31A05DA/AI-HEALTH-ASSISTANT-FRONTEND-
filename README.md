@@ -15,5 +15,5 @@ User Input → api.js → Backend → Response → UI
 ## Status
 Frontend complete. Backend integration in progress.
 
-## Run
-Open with Live Server (or any local server).
+## Live repo
+ https://25a31a05da.github.io/AI-HEALTH-ASSISTANT-FRONTEND-/
